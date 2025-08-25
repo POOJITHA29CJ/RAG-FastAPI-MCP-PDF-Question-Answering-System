@@ -1,2 +1,1 @@
-# RAG-FastAPI-MCP-PDF-Question-Answering-System
-his project implements a powerful Retrieval-Augmented Generation (RAG) pipeline to create a question-answering system for PDF documents. 
+This project implements a powerful Retrieval-Augmented Generation (RAG) pipeline to create a question-answering system for PDF documents. It uses a modern Python stack, featuring a FastAPI backend for the API, the Multi-Process Controller (MCP) framework for running AI tools in a separate process, and LangChain with Google's Gemini models for state-of-the-art document processing and text generation.
